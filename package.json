@@ -1,0 +1,38 @@
+{
+  "name": "@exclison/postcss-px-to-viewport",
+  "version": "1.0.0",
+  "description": "A CSS post-processor that converts px to viewport units (vw,vh,vmin,vmax).",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exclison/postcss-px-to-viewport.git"
+  },
+  "keywords": [
+    "postcss",
+    "css",
+    "units",
+    "pixel",
+    "px",
+    "viewport",
+    "vw",
+    "vh",
+    "vmin",
+    "vmax",
+    "postcss-plugin"
+  ],
+  "author": "exclison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exclison/postcss-px-to-viewport/issues"
+  },
+  "homepage": "https://github.com/exclison/postcss-px-to-viewport#readme",
+  "devDependencies": {
+    "postcss": "^8.3.6"
+  },
+  "peerDependencies": {
+    "postcss": "^8.3.6"
+  }
+}
