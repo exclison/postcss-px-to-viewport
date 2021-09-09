@@ -235,7 +235,7 @@ $ node index.js
 
 ## 作者
 
-- [Dmitry Karpunin](https://github.com/exclison/postcss-px-to-viewport) 
+- [Exclison](https://github.com/exclison/postcss-px-to-viewport) 
 
 在 [contributors](https://github.com/exclison/postcss-px-to-viewport/contributors) 里可以看到谁参与了本项目.
 
